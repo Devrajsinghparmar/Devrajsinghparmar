@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Web3](https://about-web-3-2yf9xiy3x-devraj-singh-parmars-projects.vercel.app/)
 
-- 👯 color picker [color changing](https://color-changer-web-seven.vercel.app/)
-
 - 📫 How to reach me **pdevraj249@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
