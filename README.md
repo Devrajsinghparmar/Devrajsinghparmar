@@ -6,7 +6,8 @@
 ---
 
 ### ⚡ Quick Bio
-I am a **Computer Science major** dedicated to building scalable full-stack applications. I specialize in bridging the gap between robust backend logic (**Java/Node.js**) and intelligent user experiences through **Machine Learning**. Currently, I'm diving deep into the world of **Web3** and looking for internship opportunities to solve real-world challenges.
+Computer Science Major | Full-Stack & AI Systems Developer
+Computer Science senior passionate about full-stack engineering, scalable backend systems (Java/Node.js), and integrating AI-powered features into modern web applications. Experienced in architecting end-to-end applications from the ground up and building real-time distributed systems.
 
 - 🔭 **Current Focus:** Building decentralized solutions on [Web3](https://about-web-3-2yf9xiy3x-devraj-singh-parmars-projects.vercel.app/)
 - 🎓 **Education:** B.Tech in Computer Science
