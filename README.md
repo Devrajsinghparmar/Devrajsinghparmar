@@ -9,7 +9,7 @@
 Computer Science Major | Full-Stack & AI Systems Developer
 Computer Science senior passionate about full-stack engineering, scalable backend systems (Java/Node.js), and integrating AI-powered features into modern web applications. Experienced in architecting end-to-end applications from the ground up and building real-time distributed systems.
 
-- 🔭 **Current Focus:** Building decentralized solutions on [DEVA]([(https://voice-assistant-devraj-singh-parmars-projects.vercel.app/))
+- 🔭 **Current Focus:** Building decentralized solutions on [DEVA](https://voice-assistant-devraj-singh-parmars-projects.vercel.app/)
 - 🎓 **Education:** B.Tech in Computer Science
 - 📧 **Reach Me:** [pdevraj249@gmail.com](mailto:pdevraj249@gmail.com)
 
